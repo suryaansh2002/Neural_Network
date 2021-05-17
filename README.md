@@ -1,1 +1,1 @@
-# Neural_Networl
+Made a single hidden layer neural network.
